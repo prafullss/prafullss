@@ -1,4 +1,4 @@
-![cover](cover.png)
+[cover](cover.png)
 
 <h1 align="center">Hi 👋, I'm Prafull Singh</h1>
 <h3 align="center">A passionate Technology Lover</h3>
