@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prafullss" alt="prafullss" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prafullsingh97" target="blank"><img src="https://img.shields.io/twitter/follow/prafullss?logo=twitter&style=for-the-badge" alt="prafullsingh97" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prafullsingh97" target="blank"><img src="https://img.shields.io/twitter/follow/prafullsingh97?logo=twitter&style=for-the-badge" alt="prafullsingh97" /></a> </p>
 
 - 🌱 I’m currently learning **.NET Core C# Azure DevOps**
 
